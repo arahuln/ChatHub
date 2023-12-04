@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "MERN stack (MongoDB, Express.js, React.js, and Node.js), Socket.io, Redux Toolkit, and Tailwind CSS.",
   "main": "index.js",
+  "dev":"nodemon index.js",
+  "build":"npm i",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.22.9",
